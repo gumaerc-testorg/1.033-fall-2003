@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/8170527c5fbf98d82b8ea652a992d8b4_lecture_ii_4.pdf
-file_location: /coursemedia/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/8170527c5fbf98d82b8ea652a992d8b4_lecture_ii_4.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/8170527c5fbf98d82b8ea652a992d8b4_lecture_ii_4.pdf
 file_type: application/pdf
 resourcetype: Document
 title: lecture_ii_4.pdf

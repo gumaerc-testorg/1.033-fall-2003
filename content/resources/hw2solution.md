@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/1ecee5ef861ae0dab25597f85e6d3299_hw2solution.pdf
-file_location: /coursemedia/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/1ecee5ef861ae0dab25597f85e6d3299_hw2solution.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/1ecee5ef861ae0dab25597f85e6d3299_hw2solution.pdf
 file_type: application/pdf
 resourcetype: Document
 title: hw2solution.pdf

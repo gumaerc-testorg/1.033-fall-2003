@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/8131f7951f75eff1ba0209e15eb6e10f_hw4.pdf
-file_location: /coursemedia/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/8131f7951f75eff1ba0209e15eb6e10f_hw4.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/8131f7951f75eff1ba0209e15eb6e10f_hw4.pdf
 file_type: application/pdf
 resourcetype: Document
 title: hw4.pdf

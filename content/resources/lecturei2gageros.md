@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Strain Gage Rosette Graphical Determination
-file: /media/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/272a2eced6732cdeb2f07060c42119e8_lecturei2gageros.pdf
-file_location: /coursemedia/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/272a2eced6732cdeb2f07060c42119e8_lecturei2gageros.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/272a2eced6732cdeb2f07060c42119e8_lecturei2gageros.pdf
 file_type: application/pdf
 resourcetype: Document
 title: lecturei2gageros.pdf
