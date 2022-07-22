@@ -5,6 +5,7 @@ file: /courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecturei2mohrstr.pdf
 uid: d499868b-91a8-82ac-bb4c-3373849753cd
 ---
 Mohr-Plane Construction
-

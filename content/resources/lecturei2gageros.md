@@ -5,6 +5,7 @@ file: /courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecturei2gageros.pdf
 uid: 272a2ece-d673-2cde-b2f0-7060c42119e8
 ---
 Strain Gage Rosette Graphical Determination
-
