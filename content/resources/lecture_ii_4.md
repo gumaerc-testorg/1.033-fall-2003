@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/8170527c5fbf98d82b8ea652a992d8b4_lecture_ii_4.pdf
+file: /courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/8170527c5fbf98d82b8ea652a992d8b4_lecture_ii_4.pdf
 file_size: 192560
 file_type: application/pdf
 learning_resource_types:

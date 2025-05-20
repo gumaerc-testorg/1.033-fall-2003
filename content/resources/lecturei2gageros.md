@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Strain Gage Rosette Graphical Determination
-file: /ol-ocw-studio-app/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/272a2eced6732cdeb2f07060c42119e8_lecturei2gageros.pdf
+file: /courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/272a2eced6732cdeb2f07060c42119e8_lecturei2gageros.pdf
 file_size: 89407
 file_type: application/pdf
 learning_resource_types:
