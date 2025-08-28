@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Mohr-Plane Construction
-file: /courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/d499868b91a882acbb4c3373849753cd_lecturei2mohrstr.pdf
+file: /ol-ocw-studio-app/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/d499868b91a882acbb4c3373849753cd_lecturei2mohrstr.pdf
 file_size: 170938
 file_type: application/pdf
 learning_resource_types:
